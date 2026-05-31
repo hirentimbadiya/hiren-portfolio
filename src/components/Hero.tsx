@@ -36,7 +36,7 @@ export function Hero() {
             <Sparkles size={16} /> Hire Me
           </a>
           <a
-            href="/Hiren-Resume.md"
+            href="/Hiren-Resume.pdf"
             target="_blank"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border-2 border-accent-blue dark:border-accent-yellow text-accent-blue dark:text-accent-yellow font-semibold hover:bg-accent-blue/5 dark:hover:bg-accent-yellow/5 transition-colors"
           >
